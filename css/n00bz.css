@@ -1,0 +1,13 @@
+html,body{
+	margin:0;
+	font:100%/1.4 "Helvetica Neue",Helvetica,Arial,sans-serif;
+	word-wrap: break-word;
+}
+body{
+	font-size:162.5%;
+	width:920px;
+	margin:0 auto;
+}
+h1{
+	text-align: center;
+}
